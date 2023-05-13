@@ -1,0 +1,58 @@
+Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,SKU,HS Code,COO,Location,Incoming,Unavailable,Committed,Available,On hand
+the-minimal-snowboard,The Minimal Snowboard,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,11,39,50
+the-minimal-snowboard,The Minimal Snowboard,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-minimal-snowboard,The Minimal Snowboard,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-hidden-snowboard,The Hidden Snowboard,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,50,50
+the-hidden-snowboard,The Hidden Snowboard,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-hidden-snowboard,The Hidden Snowboard,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-collection-snowboard-hydrogen,The Collection Snowboard: Hydrogen,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,50,50
+the-collection-snowboard-hydrogen,The Collection Snowboard: Hydrogen,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-collection-snowboard-hydrogen,The Collection Snowboard: Hydrogen,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-archived-snowboard,The Archived Snowboard,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,50,50
+the-archived-snowboard,The Archived Snowboard,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-archived-snowboard,The Archived Snowboard,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-out-of-stock-snowboard,The Out of Stock Snowboard,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,0,0
+the-out-of-stock-snowboard,The Out of Stock Snowboard,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-out-of-stock-snowboard,The Out of Stock Snowboard,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-draft-snowboard,The Draft Snowboard,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,20,20
+the-draft-snowboard,The Draft Snowboard,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-draft-snowboard,The Draft Snowboard,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Ice,,,,,"",,,793 Crittenden St,0,0,8,2,10
+the-complete-snowboard,The Complete Snowboard,Color,Ice,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Ice,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Dawn,,,,,"",,,793 Crittenden St,0,0,2,8,10
+the-complete-snowboard,The Complete Snowboard,Color,Dawn,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Dawn,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Powder,,,,,"",,,793 Crittenden St,0,0,1,9,10
+the-complete-snowboard,The Complete Snowboard,Color,Powder,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Powder,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Electric,,,,,"",,,793 Crittenden St,0,0,2,8,10
+the-complete-snowboard,The Complete Snowboard,Color,Electric,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Electric,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Sunset,,,,,"",,,793 Crittenden St,0,0,2,8,10
+the-complete-snowboard,The Complete Snowboard,Color,Sunset,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-complete-snowboard,The Complete Snowboard,Color,Sunset,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-compare-at-price-snowboard,The Compare at Price Snowboard,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,10,10
+the-compare-at-price-snowboard,The Compare at Price Snowboard,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-compare-at-price-snowboard,The Compare at Price Snowboard,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-3d-modeled-snowboard,The 3D Modeled Snowboard,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,50,50
+the-3d-modeled-snowboard,The 3D Modeled Snowboard,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-3d-modeled-snowboard,The 3D Modeled Snowboard,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-multi-managed-snowboard,The Multi-managed Snowboard,Title,Default Title,,,,,sku-managed-1,,,793 Crittenden St,0,0,0,50,50
+the-multi-managed-snowboard,The Multi-managed Snowboard,Title,Default Title,,,,,sku-managed-1,,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-multi-managed-snowboard,The Multi-managed Snowboard,Title,Default Title,,,,,sku-managed-1,,,Snow City Warehouse,0,0,0,50,50
+the-collection-snowboard-oxygen,The Collection Snowboard: Oxygen,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,50,50
+the-collection-snowboard-oxygen,The Collection Snowboard: Oxygen,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-collection-snowboard-oxygen,The Collection Snowboard: Oxygen,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+the-collection-snowboard-liquid,The Collection Snowboard: Liquid,Title,Default Title,,,,,"",,,793 Crittenden St,0,0,0,50,50
+the-collection-snowboard-liquid,The Collection Snowboard: Liquid,Title,Default Title,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+the-collection-snowboard-liquid,The Collection Snowboard: Liquid,Title,Default Title,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Selling Plans Ski Wax,,,,,"",,,793 Crittenden St,0,0,0,10,10
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Selling Plans Ski Wax,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Selling Plans Ski Wax,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Special Selling Plans Ski Wax,,,,,"",,,793 Crittenden St,0,0,0,10,10
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Special Selling Plans Ski Wax,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Special Selling Plans Ski Wax,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Sample Selling Plans Ski Wax,,,,,"",,,793 Crittenden St,0,0,0,10,10
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Sample Selling Plans Ski Wax,,,,,"",,,My Custom Location,not stocked,not stocked,not stocked,not stocked,not stocked
+selling-plans-ski-wax,Selling Plans Ski Wax,Title,Sample Selling Plans Ski Wax,,,,,"",,,Snow City Warehouse,not stocked,not stocked,not stocked,not stocked,not stocked
